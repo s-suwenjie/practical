@@ -1,3 +1,4 @@
+<!--异步-->
 <script>
 export default {
     mounted () {
